@@ -10,7 +10,7 @@ description: >-
   infoproducto de alto ticket, o un guión para una landing/página de ventas con video —
   aunque no diga literalmente "VSL". También cuando pida "el formato de inputs para el
   VSL" o invoque /redactor-vsl. El usuario entrega la información del negocio (oferta,
-  precio, público, testimonios, oferta) y la skill produce el guión terminado, por
+  precio, público, testimonios) y la skill produce el guión terminado, por
   defecto como documento Word (.docx).
 ---
 
@@ -116,9 +116,10 @@ Por defecto, entrega el VSL como documento Word.
    - `## Nombre de la sección` para cada sección (Hook, Lead, etc.)
    - Párrafos de guión normales en líneas sueltas, separados por líneas en blanco
    - `[indicación visual]` en su propia línea para notas de producción
-2. Genera el documento:
+2. Genera el documento con el script `scripts/build_docx.py` **de esta skill** (resuelve la
+   ruta absoluta a partir de la carpeta donde vive este SKILL.md — no asumas un usuario fijo):
    ```bash
-   python "C:/Users/LAPTOP/.claude/skills/redactor-vsl/scripts/build_docx.py" <guion.txt> <salida.docx>
+   python "<carpeta-de-esta-skill>/scripts/build_docx.py" <guion.txt> <salida.docx>
    ```
    (Requiere `python-docx`; si falta: `pip install python-docx`.)
 3. Guarda el `.docx` en el directorio de trabajo del usuario con un nombre claro, p. ej.
