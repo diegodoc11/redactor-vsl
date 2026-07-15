@@ -66,9 +66,14 @@ informativo y sin hipnosis que toca rehacer entero:
 - **`references/05-guia-patrones-hipnoticos.txt`** — Qué patrón conviene por sección y a
   qué densidad (~1 por párrafo). Téjelos de forma natural; nunca robótica.
 - **`references/06-ejemplo-vsl-1.txt`** y **`references/07-ejemplo-vsl-2.txt`** — VSLs
-  reales de muestra. Lee LOS DOS SIEMPRE, completos: marcan el estándar de densidad de
-  preguntas, ritmo y repeticiones ("You, or him?") que el guión debe igualar. Referencia
-  de ritmo, tono y profundidad, NO para copiar.
+  reales de muestra (inglés, estilo Pampa). Lee LOS DOS SIEMPRE, completos: marcan el
+  estándar de densidad de preguntas, ritmo y repeticiones ("You, or him?") que el guión
+  debe igualar. Referencia de ritmo, tono y profundidad, NO para copiar.
+- **`references/09-ejemplo-vsl-espanol-1.txt`** (Emsella — terapia de piso pélvico) y
+  **`references/10-ejemplo-vsl-espanol-2.txt`** (Nanofat — rejuvenecimiento facial) —
+  VSLs reales EN ESPAÑOL de clientes de Diego, corriendo en pauta y convirtiendo. Léelos
+  SIEMPRE que el guión vaya en español: son la referencia de cómo suenan los patrones,
+  las preguntas y el ritmo hipnótico en español natural (no traducido). NO para copiar.
 - **`references/08-ejemplo-inputs-llenos.txt`** — Ejemplo de unos inputs ya llenos (caso
   Diego Osorio), para ver el nivel de detalle esperado y cómo se traducen en guión.
 
