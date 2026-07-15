@@ -38,8 +38,10 @@ en la conversación), salta directo al Paso 1.
 
 ### Paso 1 — Internaliza la metodología
 
-Antes de escribir, lee los archivos de referencia que vas a necesitar. No hace falta
-leerlos todos de memoria cada vez, pero sí internaliza lo esencial:
+Antes de escribir, lee los archivos de referencia COMPLETOS. Todos. No confíes en
+resúmenes, en la memoria de otra sesión ni en "con la guía basta": si un archivo no se
+leyó en ESTA sesión, no se escribe todavía. El costo de saltarse uno es un guión plano,
+informativo y sin hipnosis que toca rehacer entero:
 
 - **`references/01-estructura-vsl.txt`** — La columna vertebral: qué va en cada una de
   las 15 secciones y por qué. Léelo SIEMPRE; es el esqueleto del guión.
@@ -56,11 +58,17 @@ leerlos todos de memoria cada vez, pero sí internaliza lo esencial:
   tener para comprar (confía en ti · cree que su problema tiene solución · cree que tu
   producto la resuelve · mejor que la competencia · lo necesita YA). El VSL debe instalar
   las más críticas dado el límite de tiempo; el resto se instala en el resto del marketing.
-- **`references/04-patrones-hipnoticos.txt`** y **`references/05-guia-patrones-hipnoticos.txt`**
-  — Los 52 patrones de lenguaje hipnótico y qué patrón conviene por sección. Téjelos de
-  forma natural; nunca robótica.
+- **`references/04-patrones-hipnoticos.txt`** — Los 52 patrones hipnóticos TEXTUALES, con
+  ejemplos. Léelo COMPLETO SIEMPRE antes de escribir: la guía 05 NO lo reemplaza (la 05
+  dice DÓNDE va cada categoría; el 04 dice CÓMO suena cada patrón). Escribir sin haber
+  leído este archivo produce copy que informa pero no hipnotiza — el error #1 documentado
+  de esta skill.
+- **`references/05-guia-patrones-hipnoticos.txt`** — Qué patrón conviene por sección y a
+  qué densidad (~1 por párrafo). Téjelos de forma natural; nunca robótica.
 - **`references/06-ejemplo-vsl-1.txt`** y **`references/07-ejemplo-vsl-2.txt`** — VSLs
-  reales de muestra. Úsalos como referencia de ritmo, tono y profundidad, NO para copiar.
+  reales de muestra. Lee LOS DOS SIEMPRE, completos: marcan el estándar de densidad de
+  preguntas, ritmo y repeticiones ("You, or him?") que el guión debe igualar. Referencia
+  de ritmo, tono y profundidad, NO para copiar.
 - **`references/08-ejemplo-inputs-llenos.txt`** — Ejemplo de unos inputs ya llenos (caso
   Diego Osorio), para ver el nivel de detalle esperado y cómo se traducen en guión.
 
@@ -105,6 +113,22 @@ de la sofisticación del público, de la duración o del tipo de oferta).
 **Indicaciones visuales:** inclúyelas solo si el usuario las pidió. Si las incluyes,
 ponlas entre corchetes en su propia línea, p. ej. `[B-roll del producto en uso]`, para
 que el script de .docx las formatee como nota de producción.
+
+**Control de calidad antes de entregar (OBLIGATORIO):** pasa sección por sección
+verificando, contra los archivos (no de memoria):
+1. **Densidad hipnótica** — cada sección lleva los patrones que sugiere la guía 05 (~1
+   por párrafo), tomados del 04 y adaptados al español natural del creador. Si una
+   sección solo describe o informa, está mal escrita aunque la estructura esté perfecta.
+2. **BOP y auto-persuasión** — hay preguntas que obligan al espectador a venderse solo
+   (¿cuánto te costaría…?, ¿de verdad crees que…?, ¿tú, o él?).
+3. **Modalidades sensoriales** — el future pace y el crossroads se ven, se oyen y se
+   sienten; no son un resumen de beneficios.
+4. **Calificación con lado B** — descalifica por CARÁCTER (perezoso, coleccionista de
+   cursos, botón mágico), nunca solo por circunstancia; y cierra recibiendo con identidad
+   aspiracional.
+5. **Recorte sin mutilar** — si hay que acortar por duración, se recorta información
+   redundante, NUNCA las preguntas, los patrones ni las modalidades. La hipnosis no es la
+   grasa: es el músculo.
 
 ### Paso 3 — Entrega como .docx
 
